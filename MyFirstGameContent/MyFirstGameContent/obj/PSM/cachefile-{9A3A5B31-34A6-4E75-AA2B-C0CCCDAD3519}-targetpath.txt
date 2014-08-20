@@ -3,3 +3,6 @@ Content\earth.xnb
 Content\shuttle.xnb
 Content\stars.xnb
 Content\Score.xnb
+Content\redsmall.xnb
+Content\pink5x5.xnb
+Content\Lose.xnb

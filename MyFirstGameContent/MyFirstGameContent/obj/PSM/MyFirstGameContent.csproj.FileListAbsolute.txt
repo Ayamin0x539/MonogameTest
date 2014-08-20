@@ -7,3 +7,6 @@ e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGame
 e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
 e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\obj\PSM\IgnoreMe.dll
 e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\Score.xnb
+E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\redsmall.xnb
+E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\pink5x5.xnb
+E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\Lose.xnb

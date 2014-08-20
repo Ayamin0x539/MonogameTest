@@ -29,3 +29,6 @@ e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGame
 e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGame\bin\Windows\Debug\Content\shuttle.xnb
 e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGame\bin\Windows\Debug\Content\stars.xnb
 e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGame\bin\Windows\Debug\Content\Score.xnb
+E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGame\bin\Windows\Debug\Content\redsmall.xnb
+E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGame\bin\Windows\Debug\Content\pink5x5.xnb
+E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGame\bin\Windows\Debug\Content\Lose.xnb

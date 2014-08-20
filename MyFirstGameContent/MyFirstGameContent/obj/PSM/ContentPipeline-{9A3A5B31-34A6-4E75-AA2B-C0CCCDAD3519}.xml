@@ -46,6 +46,33 @@
       <Output>e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\Score.xnb</Output>
       <Time>2014-08-19T20:53:10.2356865-04:00</Time>
     </Item>
+    <Item>
+      <Source>redsmall.png</Source>
+      <Name>redsmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\redsmall.xnb</Output>
+      <Time>2014-08-20T06:41:33.2659614-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pink5x5.png</Source>
+      <Name>pink5x5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\pink5x5.xnb</Output>
+      <Time>2014-08-20T06:56:31.3563292-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lose.spritefont</Source>
+      <Name>Lose</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\Lose.xnb</Output>
+      <Time>2014-08-20T07:27:06.7573082-04:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{9A3A5B31-34A6-4E75-AA2B-C0CCCDAD3519}</ContentProjectGUID>
@@ -53,10 +80,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>PSM</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContentContent\</RootDirectory>
-      <LoggerRootDirectory>e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\</LoggerRootDirectory>
-      <IntermediateDirectory>e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\obj\PSM\</IntermediateDirectory>
-      <OutputDirectory>e:\users\ayamin\my documents\visual studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\</OutputDirectory>
+      <RootDirectory>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContentContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>E:\Users\Ayamin\My Documents\Visual Studio 2013\Projects\MyFirstGame\MyFirstGameContent\MyFirstGameContent\bin\PSM\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
